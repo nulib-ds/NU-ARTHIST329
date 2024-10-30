@@ -2,11 +2,6 @@
 
 This is an online guide for your Digital Mediterranean Project for ART_HIST 329: Art and Architecture of the Medieval Mediterranean World.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
-
-
 ## What is a StoryMap? 
 
 This assignment will teach us to use [ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview), which is a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
