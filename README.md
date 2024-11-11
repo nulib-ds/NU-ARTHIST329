@@ -27,4 +27,4 @@ The locations to choose from include:
 
 ## How To Use This Repository
 
-Navigate to the "About" section at the top right of the screen and select the link to take you to a step-by-step guide. You can also download a hard copy of these steps through (Canvas)[https://www.it.northwestern.edu/support/login/canvas.html]. 
+Navigate to the "About" section at the top right of the screen and select the link to take you to a step-by-step guide. You can also download a hard copy of these steps through [Canvas](https://www.it.northwestern.edu/support/login/canvas.html). 
