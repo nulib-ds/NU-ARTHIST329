@@ -3,7 +3,7 @@ layout: default
 title: Getting Started
 nav_order: 2
 ---
-
+*1*{: .circle .circle-blue} Number in normal text
 1. Sign up for Northwestern ArcOnline account using your NetID and password here: [https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
    - Make sure you're signed in (you should see your name at the top right corner:
    - ![Sign In](img/sign_in.jpg)
