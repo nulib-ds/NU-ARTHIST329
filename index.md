@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <center>
-<h3>ART_HIST 329: Art and Architecture of the Medieval Mediterranean World</h2>
+<h2>ART_HIST 329: Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
 
