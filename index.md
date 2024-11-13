@@ -4,9 +4,10 @@ title: Assignment Instructions
 nav_order: 1
 ---
 
-
-# ART_HIST 329: Art and Architecture of the Medieval Mediterranean World <br>
-## Digital Mediterranean Project
+<center>
+<h2>ART_HIST 329: Art and Architecture of the Medieval Mediterranean World</h2><br>
+<h2>Digital Mediterranean Project</h2>
+</center>
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
