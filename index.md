@@ -4,10 +4,12 @@ title: Assignment Instructions
 nav_order: 1
 ---
 
-<center>
+
 # ART_HIST 329: Art and Architecture of the Medieval Mediterranean World <br>
 ## Digital Mediterranean Project
-</center>
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 Students must choose ***five (5) locations*** out of thirteen (13) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. They must use at least two peer-reviewed references and two citations for each location’s monument or object. They can also use their class lecture notes. 
 
