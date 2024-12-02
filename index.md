@@ -28,7 +28,7 @@ Locations include:
 > - **Toledo**
 
 <br>
-We will use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, which is a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
+We will use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
 
 <br>
 <div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
