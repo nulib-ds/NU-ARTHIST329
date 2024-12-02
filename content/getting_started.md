@@ -16,16 +16,20 @@ Make sure you're signed in (you should see your name at the top right corner):
 {: .step}
 
    
-Step 2
-{: .label .label-step}
+<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
+  <strong>Step 2</strong>
+</div>
+
 Click on the the waffle-looking icon next to your name on the home page. Find and select the "ArcGIS StoryMaps" application. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/open_storymaps.jpg" alt="Open StoryMaps" width="1000" height="900">
 {: .step}
 
 
-Step 3
-{: .label .label-step}
+<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
+  <strong>Step 3</strong>
+</div>
+
 This is the home page of ArcGIS Story Maps. Let's familiarize ourselves with the layout.
 
 **A. Quick Links**: You can find tutorials on StoryMaps by selecting "Tutorials". Not sure where to start? Try "Get Started". <br> 
