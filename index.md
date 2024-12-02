@@ -4,6 +4,7 @@ title: Assignment Instructions
 nav_order: 1
 ---
 <center>
+[https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
 <h2>Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
