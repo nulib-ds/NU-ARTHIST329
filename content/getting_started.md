@@ -11,10 +11,10 @@ Sign up for Northwestern ArcOnline account using your NetID and password here:
 
 [https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
 
-Make sure you're signed in (you should see your name at the top right corner):
+After you're signed in, you should see your name appear in the top right corner:
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/sign_in.jpg" alt="Sign In" width="1000" height="900">
-{: .step}
 
+<br>
    
 <div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 2</strong>
@@ -23,8 +23,8 @@ Make sure you're signed in (you should see your name at the top right corner):
 Click on the the waffle-looking icon next to your name on the home page. Find and select the "ArcGIS StoryMaps" application. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/open_storymaps.jpg" alt="Open StoryMaps" width="1000" height="900">
-{: .step}
 
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 3</strong>
@@ -37,4 +37,3 @@ This is the home page of ArcGIS Story Maps. Let's familiarize ourselves with the
 **C. Create Story**: Click the drop-down menu to create your first StoryMap. 
    
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/storymap_content.jpg" alt="StoryMap Content" width="1000" height="900">
-{: .step}
