@@ -30,6 +30,5 @@ Locations include:
 > - **Saint Catherine (Mount Sinai; Sinai Peninsula)**
 > - **Venice**
 > - **Toledo**
-
-
+<br>
 We will use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, which is a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
