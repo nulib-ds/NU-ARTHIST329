@@ -4,7 +4,7 @@ title: Assignment Instructions
 nav_order: 1
 ---
 <center>
-[https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg" alt="Map 1" width="500" height="400">
 <h2>Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
