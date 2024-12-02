@@ -3,8 +3,10 @@ layout: default
 title: Getting Started
 nav_order: 2
 ---
-Step 1
-{: .label .label-step}
+<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
+  <strong>Step 1</strong> Contact Mech Frazier at gis@northwestern.edu for questions!
+</div>
+
 Sign up for Northwestern ArcOnline account using your NetID and password here: 
 
 [https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
