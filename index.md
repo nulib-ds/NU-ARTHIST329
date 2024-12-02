@@ -5,12 +5,13 @@ nav_order: 1
 ---
 
 <center>
-<h2>ART_HIST 329: Art and Architecture of the Medieval Mediterranean World</h2>
+<h2 style="font-size:300%;">Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
 
-<div style="border: 1px solid #f5c6cb; background-color: #f8d7da; padding: 10px; border-radius: 5px; color: #721c24;">
-  <strong>Alert:</strong> Please remember to submit your assignments by the due date!
+<br>
+<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #721c24;">
+  <strong>Note:</strong> Please remember to submit your assignments by the due date!
 </div>
 
 Students must choose ***five (5) locations*** out of thirteen (13) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. They must use at least two peer-reviewed references and two citations for each location’s monument or object. They can also use their class lecture notes. 
