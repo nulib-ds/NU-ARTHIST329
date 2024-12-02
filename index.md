@@ -5,12 +5,12 @@ nav_order: 1
 ---
 
 <center>
-<h2 style="font-size:300%;">Art and Architecture of the Medieval Mediterranean World</h2>
+<h2>Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
 
 <br>
-<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #721c24;">
+<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Note:</strong> Please remember to submit your assignments by the due date!
 </div>
 
