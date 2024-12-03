@@ -31,9 +31,15 @@ Click on the the waffle icon next to your name on the home page. Find and select
   <strong>Step 3</strong>
 </div>
 
-This is the home page of ArcGIS Story Maps. Let's familiarize ourselves with the layout.
+This is the home page of ArcGIS StoryMaps. Let's familiarize ourselves with the layout.
 
-**A. Quick Links**: You can find tutorials on StoryMaps by selecting "Tutorials". Not sure where to start? Try "Get Started". <br> 
+**A. Quick Links**: You can find all sorts of helpful information here like tutorials and how to plan out your story. Keep in mind these resources will cover more than what's required for this class. 
+        - [Get Started](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
+        - [Tutorials](https://storymaps.arcgis.com/collections/d34681ac0d1a417894a3a3d955c6913f)
+        - [Story Planning](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/sharing-collaboration/planning-and-outlining-your-story-map-how-to-set-yourself-up-for-success/)
+        - [Explore Stories](https://doc.arcgis.com/en/arcgis-storymaps/gallery/?rsource=https%3A%2F%2Fwww.esri.com%2Fen-us%2Farcgis%2Fproducts%2Farcgis-storymaps%2Fstories)
+        - [FAQ](https://doc.arcgis.com/en/arcgis-storymaps/get-started/faq.htm)
+        <br> 
 **B. My Content**: This is where you can access StoryMaps you've created. Check that your StoryMap is published by confirming the icon on the StoryMap card is set to "Published".<br>
 **C. Create Story**: Click the drop-down menu to create your first StoryMap. 
    
