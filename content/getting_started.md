@@ -12,7 +12,7 @@ Sign up for Northwestern ArcOnline account using your NetID and password here:
 [https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
 
 After you're signed in, you should see your name appear in the top right corner:
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/sign_in.jpg" alt="Sign In" width="1000" height="900">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/signin.jpg" alt="Sign In" width="1000" height="900">
 
 <br>
    
