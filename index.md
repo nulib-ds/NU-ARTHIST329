@@ -4,7 +4,7 @@ title: Assignment Instructions
 nav_order: 1
 ---
 <center>
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg" alt="Map 1" width="500" height="400">*
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map1.jpg" alt="Map 1" width="500" height="400"> **
 <h2>Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
@@ -30,4 +30,4 @@ Locations include:
 <br>
 We will use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
 
-<p><small>*Oxford, Bodleian Library MS. Arab. c. 90: https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</small></p>
+<p><small>** Oxford, Bodleian Library MS. Arab. c. 90: https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</small></p>
