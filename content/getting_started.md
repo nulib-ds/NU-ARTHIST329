@@ -3,7 +3,7 @@ layout: default
 title: Getting Started
 nav_order: 2
 ---
-<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
+<div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 1</strong>
 </div>
 
@@ -17,7 +17,7 @@ After you're signed in, you should see your name appear in the top right corner:
 
 <br>
    
-<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
+<div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 2</strong>
 </div>
 
@@ -27,7 +27,7 @@ Click on the the waffle icon next to your name on the home page. Find and select
 
 <br>
 
-<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
+<div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 3</strong>
 </div>
 
