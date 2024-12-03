@@ -30,8 +30,4 @@ Locations include:
 <br>
 We will use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
 
-<br>
-<div style="border: 1px solid #4E2A84; background-color: #B6ACD1; padding: 10px; border-radius: 5px; color: #4E2A84;">
-  <strong>Need help?</strong> Contact Mech Frazier at gis@northwestern.edu for questions!
-</div>
 <p><small>*Oxford, Bodleian Library MS. Arab. c. 90: https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</small></p>
