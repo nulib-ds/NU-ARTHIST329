@@ -12,6 +12,7 @@ Sign up for Northwestern ArcOnline account using your NetID and password here:
 [https://northwestern.maps.arcgis.com/home/index.html](https://northwestern.maps.arcgis.com/home/index.html)
 
 After you're signed in, you should see your name appear in the top right corner:
+
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/signin.jpg" alt="Sign In" width="1000" height="900">
 
 <br>
@@ -20,9 +21,9 @@ After you're signed in, you should see your name appear in the top right corner:
   <strong>Step 2</strong>
 </div>
 
-Click on the the waffle-looking icon next to your name on the home page. Find and select the "ArcGIS StoryMaps" application. 
+Click on the the waffle icon next to your name on the home page. Find and select the "ArcGIS StoryMaps" application. 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/open_storymaps.jpg" alt="Open StoryMaps" width="1000" height="900">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/waffle.jpg" alt="Open StoryMaps" width="1000" height="900">
 
 <br>
 
