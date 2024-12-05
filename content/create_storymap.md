@@ -7,7 +7,7 @@ nav_order: 3
   <strong>Step 1</strong>
 </div>
 
-For this assignment, we'll choose the guided map tour. Once choosen, this will launch our StoryMap so we can begin creating our story.
+For this assignment, choose the guided map tour. Once selected, this will launch our StoryMap so we can begin creating our story.
 
 [ADD IMAGE]
 
@@ -17,9 +17,9 @@ For this assignment, we'll choose the guided map tour. Once choosen, this will l
 
 Select the "Design" button on the top of the ribbon to choose your design template for your StoryMap. 
 
-Click on each of the Cover designs - choose your favorite! You can always change your selection if it's no longer your vibe. 
+Click on each of the Cover designs - choose your favorite! You can always change your selection later if it's no longer your vibe. 
 
-Next, select your "Theme" template. Again, click around, and select the "Featured themes gallery" for even more options. 
+Next, select your "Theme" template. Click on the "Featured themes gallery" for even more options. 
 
 Add your title, short introduction, and cover image or video. 
 
@@ -29,9 +29,9 @@ Add your title, short introduction, and cover image or video.
   <strong>Step 3</strong>
 </div>
 
-Now we'll move on to making the map and adding our content. Please remember to save your assignment and any images in a Word document!
+Now we'll move on to creating the interactive web map and adding content. Please remember to save your assignment text and any images in a Word document!
 
-Since political borders were not what they are today, let's change our basemap [ADD EXPLANATION] to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
+Since political borders change and were most certainly different during , let's change our basemap [ADD EXPLANATION] to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 [ADD IMAGE]
 [ADD IMAGE]
 
