@@ -9,21 +9,31 @@ nav_order: 3
 
 For this assignment, we'll choose the guided map tour. Once choosen, this will launch our StoryMap so we can begin creating our story.
 
+[ADD IMAGE]
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 2</strong>
 </div>
 
 Select the "Design" button on the top of the ribbon to choose your design template for your StoryMap. 
+
 Click on each of the Cover designs - choose your favorite! You can always change your selection if it's no longer your vibe. 
 
 Next, select your "Theme" template. Again, click around, and select the "Featured themes gallery" for even more options. 
 
 Add your title, short introduction, and cover image or video. 
 
+[ADD IMAGE]
+
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 3</strong>
 </div>
+
+Now we'll move on to making the map and adding our content. Please remember to save your assignment and any images in a Word document!
+
+Since political borders were not what they are today, let's change our basemap [ADD EXPLANATION] to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
+[ADD IMAGE]
+[ADD IMAGE]
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 4</strong>
