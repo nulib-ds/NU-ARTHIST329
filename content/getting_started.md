@@ -48,6 +48,7 @@ This is the home page of ArcGIS StoryMaps. Let's familiarize ourselves with the 
         
 **B. My Content**: This is where you can access StoryMaps you've created. Check that your StoryMap is published by confirming the icon on the StoryMap card is set to "Published".
 <br>
+
 **C. Create Story**: Click the drop-down menu to create your first StoryMap. 
    
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/storymaps.jpg" alt="StoryMap Content" width="1000" height="900">
