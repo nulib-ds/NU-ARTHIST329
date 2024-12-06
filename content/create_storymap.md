@@ -9,7 +9,7 @@ nav_order: 3
 
 For this assignment, choose the **Guided map tour**. Once selected, this will launch our new StoryMap.
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="400" height="300">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="350" height="250">
 <br>
 
 
@@ -62,5 +62,5 @@ Create a **map tour card**:<br>
 **D.** Next, add your **image and text**. 
 <br>
 **E.** That's it! Keep adding tour cards until you have at least 5 places and something that resembles this:<br>
-  <iframe src="https://arcg.is/HGGSP0" title="Example StoryMap"> width="500" height="400"</iframe> 
+  <iframe src="https://arcg.is/HGGSP0" title="Example StoryMap"> width="1000" height="900"</iframe> 
 
