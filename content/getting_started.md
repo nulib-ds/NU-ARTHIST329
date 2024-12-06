@@ -22,7 +22,7 @@ After you're signed in, you should see your name appear in the top right corner:
   <strong>Step 2</strong>
 </div>
 
-Click on the the waffle icon next to your name on the home page. Find and select the "ArcGIS StoryMaps" application. 
+Click on the waffle icon next to your name on the home page. Find and select the **ArcGIS StoryMaps** application. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/waffle.jpg" alt="Open StoryMaps" width="1000" height="900">
 
