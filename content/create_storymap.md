@@ -9,7 +9,7 @@ nav_order: 3
 
 For this assignment, choose the **Guided map tour**. Once selected, this will launch our new StoryMap.
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="300" height="200">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="400" height="300">
 <br>
 
 
@@ -25,7 +25,7 @@ Next, select your **Theme** template. Click on the **Featured themes gallery** f
 
 Add your title, short introduction, and cover image or video. 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="800" height="700">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="700" height="600">
 <br>
 
 
@@ -35,7 +35,7 @@ Add your title, short introduction, and cover image or video.
 
 Now we'll start to creare the interactive web map portion of your final project. This is where you will add your images, text, and select your locations of interest. 
 
-<div style="border: 1px solid #AB0003; background-color: #FFCBD1; padding: 10px; border-radius: 5px; color: #AB0003;">
+<div style="border: 1px solid #AB0003; background-color: #f7c8c6; padding: 10px; border-radius: 5px; color: #AB0003;">
   <small><strong>Remember</strong> to save a copy of your text in a Word document and your images in a folder! </small>
 </div>
 
