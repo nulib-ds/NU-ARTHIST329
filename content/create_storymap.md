@@ -51,14 +51,14 @@ Since political borders have most certainly changed since medieveal times, let's
   <strong>Step 4</strong>
 </div>
 
-Create a "map" tour card:<br>
-**A.** Add "new slide" to your map tour.
+Create a **map tour card**:<br>
+**A.** Add **new slide** to your map tour.
 <br>
-**B.** Select "Add location" and Zoom into your place of interest. Pro Tip: You can use the search location bar at the top-left corner to help you locate your area. 
+**B.** Select **Add location** and Zoom into your place of interest. <small>Pro Tip: You can use the search location bar at the top-left corner to help you locate your area.</small>
 <br>
-**C.** Select your Zoom level. I'd suggest using "Use the current zoom level" and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
+**C.** Select your **Zoom** level. I'd suggest using the **Use the current zoom level** and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/zoom.jpg" width="300" height="200">
 <br>
-**D.** Next, add your image and text. 
+**D.** Next, add your **image and text**. 
 <br>
 **E.** That's it! Keep adding tour cards until you have at least 5 places.
