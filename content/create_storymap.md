@@ -62,5 +62,5 @@ Create a **map tour card**:<br>
 **D.** Next, add your **image and text**. 
 <br>
 **E.** That's it! Keep adding tour cards until you have at least 5 places and something that resembles this:<br>
-  <iframe src="https://arcg.is/HGGSP0" title="Example StoryMap"> width="1000" height="900"</iframe> 
+  <iframe src="https://arcg.is/HGGSP0" width="1000" height="900" title="Example StoryMap"></iframe> 
 
