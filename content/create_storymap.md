@@ -9,7 +9,8 @@ nav_order: 3
 
 For this assignment, choose the guided map tour. Once selected, this will launch our StoryMap so we can begin creating our story.
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="1000" height="900">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="500" height="400">
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 2</strong>
@@ -24,6 +25,7 @@ Next, select your "Theme" template. Click on the "Featured themes gallery" for e
 Add your title, short introduction, and cover image or video. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="1000" height="900">
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 3</strong>
@@ -33,8 +35,9 @@ Now we'll move on to creating the interactive web map and adding content. Please
 
 Since political borders change and were most certainly different during , let's change our basemap [ADD EXPLANATION] to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="1000" height="900">
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="1000" height="900">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="500" height="400">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="800" height="700">
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 4</strong>
