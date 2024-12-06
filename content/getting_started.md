@@ -33,9 +33,9 @@ Click on the the waffle icon next to your name on the home page. Find and select
 
 This is the home page of ArcGIS StoryMaps. Let's familiarize ourselves with the layout.
 
-**A. Quick Links**: You can find all sorts of helpful information here like tutorials and how to plan out your story. Keep in mind these resources will cover more than what's required for this class.
-        <br>
-        <br>
+**A. Quick Links**: You can find all sorts of helpful information here like tutorials and how to plan out your story. Keep in mind these resources will cover more than what's required for the class.
+        <br
+          >
         - [Get Started](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4)
         <br>
         - [Tutorials](https://storymaps.arcgis.com/collections/d34681ac0d1a417894a3a3d955c6913f)
