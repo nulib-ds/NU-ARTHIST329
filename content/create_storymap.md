@@ -9,7 +9,7 @@ nav_order: 3
 
 For this assignment, choose the guided map tour. Once selected, this will launch our StoryMap so we can begin creating our story.
 
-[ADD IMAGE]
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="1000" height="900">
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 2</strong>
@@ -23,7 +23,7 @@ Next, select your "Theme" template. Click on the "Featured themes gallery" for e
 
 Add your title, short introduction, and cover image or video. 
 
-[ADD IMAGE]
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="1000" height="900">
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 3</strong>
@@ -32,13 +32,11 @@ Add your title, short introduction, and cover image or video.
 Now we'll move on to creating the interactive web map and adding content. Please remember to save your assignment text and any images in a Word document!
 
 Since political borders change and were most certainly different during , let's change our basemap [ADD EXPLANATION] to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
-[ADD IMAGE]
-[ADD IMAGE]
+
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="1000" height="900">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="1000" height="900">
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 4</strong>
 </div>
 
-Go to Design - choose a cover and a theme you like from the templates. 
-Add an image. Here are some good resources for images: 
-Switch up your panel!
