@@ -40,7 +40,7 @@ Now we'll start to create the interactive web map portion of your final project.
   <small><strong>Remember</strong> to save a copy of your text in a Word document and your images in a folder! </small>
 </div>
 
-Since political borders have most certainly changed since medieveal times, let's change our [**basemap**](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/author-a-basemap.htm) to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
+Since political borders have most certainly changed since medieval times, let's change our [**basemap**](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/author-a-basemap.htm) to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="150" height="50">
 <br>
