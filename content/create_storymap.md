@@ -11,7 +11,7 @@ For this assignment, choose the **Guided map tour**. Once selected, this will la
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="350" height="250">
 <br>
-
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 2</strong>
@@ -27,7 +27,7 @@ Add your title, short introduction, and cover image or video.
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="600" height="500">
 <br>
-
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 3</strong>
@@ -45,7 +45,7 @@ Since political borders have most certainly changed since medieveal times, let's
 <br>
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="500" height="400">
 <br>
-
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 4</strong>
