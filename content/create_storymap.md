@@ -42,6 +42,7 @@ Now we'll start to creare the interactive web map portion of your final project.
 Since political borders have most certainly changed since medieveal times, let's change our [basemap](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/author-a-basemap.htm) to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="200" height="100">
+<br>
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="500" height="400">
 <br>
 
@@ -56,7 +57,7 @@ Create a "map" tour card:<br>
 **B.** Select "Add location" and Zoom into your place of interest. Pro Tip: You can use the search location bar at the top-left corner to help you locate your area. 
 <br>
 **C.** Select your Zoom level. I'd suggest using "Use the current zoom level" and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/zoom.jpg" width="500" height="400">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/zoom.jpg" width="300" height="200">
 <br>
 **D.** Next, add your image and text. 
 <br>
