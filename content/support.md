@@ -11,7 +11,7 @@ Contact Mech Frazier at **gis@northwestern.edu** for questions or book an appoin
 <br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
-  <strong>Need images or maps?</strong>
+  <strong>Need to find images or digital collections?</strong>
 </div>
 A list of digital collections you can download images from (always make sure to cite them!): 
 
