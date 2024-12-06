@@ -30,3 +30,5 @@ A list of digital collections you can download images from (always make sure to 
 - The Environmental Studies program at NU offers [two introductory courses](https://envsci.northwestern.edu/undergraduate-program/courses/2019-2020/course-descriptions/) on GIS.
 
 - Anthropology lab
+
+- Digital humanties projects that involve maps
