@@ -3,6 +3,7 @@ layout: default
 title: Getting Started
 nav_order: 2
 ---
+
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 1</strong>
 </div>
