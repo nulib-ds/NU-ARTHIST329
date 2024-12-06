@@ -25,7 +25,7 @@ Next, select your **Theme** template. Click on the **Featured themes gallery** f
 
 Add your title, short introduction, and cover image or video. 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="700" height="600">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="600" height="500">
 <br>
 
 
@@ -33,7 +33,7 @@ Add your title, short introduction, and cover image or video.
   <strong>Step 3</strong>
 </div>
 
-Now we'll start to creare the interactive web map portion of your final project. This is where you will add your images, text, and select your locations of interest. 
+Now we'll start to create the interactive web map portion of your final project. This is where you will add your images, text, and select your locations of interest. 
 
 <div style="border: 1px solid #AB0003; background-color: #f7c8c6; padding: 10px; border-radius: 5px; color: #AB0003;">
   <small><strong>Remember</strong> to save a copy of your text in a Word document and your images in a folder! </small>
@@ -41,7 +41,7 @@ Now we'll start to creare the interactive web map portion of your final project.
 
 Since political borders have most certainly changed since medieveal times, let's change our [basemap](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/author-a-basemap.htm) to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="200" height="100">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="150" height="50">
 <br>
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="500" height="400">
 <br>
@@ -57,8 +57,10 @@ Create a **map tour card**:<br>
 **B.** Select **Add location** and Zoom into your place of interest. <small>Pro Tip: You can use the search location bar at the top-left corner to help you locate your area.</small>
 <br>
 **C.** Select your **Zoom** level. I'd suggest using the **Use the current zoom level** and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/zoom.jpg" width="300" height="200">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/zoom.jpg" width="200" height="100">
 <br>
 **D.** Next, add your **image and text**. 
 <br>
-**E.** That's it! Keep adding tour cards until you have at least 5 places.
+**E.** That's it! Keep adding tour cards until you have at least 5 places and something that resembles this:<br>
+  <iframe src="https://arcg.is/HGGSP0" title="Example StoryMap"> width="500" height="400"</iframe> 
+
