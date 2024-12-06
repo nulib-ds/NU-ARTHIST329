@@ -33,7 +33,7 @@ Add your title, short introduction, and cover image or video.
 
 Now we'll move on to creating the interactive web map and adding content. Please remember to save your assignment text and any images in a Word document!
 
-Since political borders change and were most certainly different during , let's change our basemap [ADD EXPLANATION] to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
+Since political borders have most certainly changed since medieveal times, let's change our [basemap](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/author-a-basemap.htm) to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/pencil.jpg" width="500" height="400">
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/basemap.jpg" width="800" height="700">
@@ -43,3 +43,10 @@ Since political borders change and were most certainly different during , let's 
   <strong>Step 4</strong>
 </div>
 
+Create a "map" tour card: 
+A. Add "new slide" to your map tour.
+B. Select "Add location" and Zoom into your place of interest. Pro Tip: You can use the search location bar at the top-left corner to help you locate your area. 
+C. Select your Zoom level. I'd suggest using "Use the current zoom level" and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/zoom.jpg" width="500" height="400">
+D. Next, add your image and text. 
+E. That's it! Keep adding tour cards until you're 
