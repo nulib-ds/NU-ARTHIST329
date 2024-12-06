@@ -25,7 +25,7 @@ Next, select your **Theme** template. Click on the **Featured themes gallery** f
 
 Add your title, short introduction, and cover image or video. 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="1000" height="900">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/design.jpg" width="800" height="700">
 <br>
 
 
