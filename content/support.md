@@ -25,4 +25,5 @@ A list of digital collections you can download images from (always make sure to 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Want to learn more about GIS?</strong>
 </div>
-Check out the Library's [GIS research guide](https://libguides.northwestern.edu/gis) 
+Check out the Library's [GIS research guide](https://libguides.northwestern.edu/gis)<br>
+The Environmental Studies program at NU offers [two introductory courses](https://envsci.northwestern.edu/undergraduate-program/courses/2019-2020/course-descriptions/) on GIS.
