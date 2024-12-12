@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resourses & Support
+title: Resources & Support
 nav_order: 4
 ---
 
