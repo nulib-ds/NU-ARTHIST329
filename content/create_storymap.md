@@ -34,7 +34,7 @@ Add your title, short introduction, and cover image or video.
   <strong>Step 3</strong>
 </div>
 
-Now we'll create the interactive web map portion of your final project. This is where you will add your images, text, and select your locations of interest. 
+Now we'll create the interactive web map portion of your final project. You'll add your locations of interest, images, and text here. 
 
 <div style="border: 1px solid #620c08; background-color: #ffeded; padding: 10px; border-radius: 5px; color: #620c08;">
   <small><strong>Remember</strong> to save a copy of your text in a Word document and your images in a folder! </small>
