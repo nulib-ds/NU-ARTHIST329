@@ -10,7 +10,11 @@ nav_order: 1
 </center>
 <br>
 
-Students must choose ***five (5) locations*** out of thirteen (13) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. They must use at least two peer-reviewed references and two citations for each location’s monument or object. They can also use their class lecture notes. 
+This assignment will teach you to use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, a web-based story-authoring application. It will engage you in a digital investigation of the art and architecture of the medieval Mediterranean world to create and share your digital map of the region’s monuments and objects with narrative analytical text, images, sources, videos, audio, and other multimedia content.  
+
+You will integrate geographic visualization of the medieval Mediterranean with the region’s historical analysis of artistic production and cultural interaction. This assignment will enhance your knowledge of the medieval Mediterranean’s interconnected histories with spatial reasoning (location, direction, movement, size, and shape in a 3-dimensional reality). Your goal is to interpret the knowledge you have gained during this course to create a visually appealing and interactive digital showcase of scholarly narrative that contextualizes political, cultural, religious, and economic exchange and artistic production in the medieval Mediterranean world. 
+
+<font color="black">Students must choose ***five (5) locations*** out of thirteen (13) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. They must use at least two peer-reviewed references and two citations for each location’s monument or object. They can also use their class lecture notes.</font>
 
 Locations include: 
 > - **Constantinople**
@@ -27,8 +31,6 @@ Locations include:
 > - **Venice**
 > - **Toledo**
 
-<br>
-We will use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, a web-based story-authoring application, to create and share your digital map of monuments and objects in the medieval Mediterranean with narrative text, images, sources, videos, audio, and other multimedia content. 
 <br>
 
 <p><small><small>** Oxford, Bodleian Library MS. Arab. c. 90: <a href="https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/">https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</a></small></small></p>
