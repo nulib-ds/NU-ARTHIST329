@@ -8,7 +8,6 @@ nav_order: 1
 <h2>Art and Architecture of the Medieval Mediterranean World</h2>
 <h2>Digital Mediterranean Project</h2>
 </center>
-<br>
 
 This assignment will teach you to use **[ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview)**, a web-based story-authoring application. It will engage you in a digital investigation of the art and architecture of the medieval Mediterranean world to create and share your digital map of the region’s monuments and objects with narrative analytical text, images, sources, videos, audio, and other multimedia content.  
 
