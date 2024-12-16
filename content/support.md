@@ -22,6 +22,10 @@ A list of digital collections you can download images from (always make sure to 
 - [Library of Congress](https://www.loc.gov/maps/collections/)
 
 - [David Rumsey's Historical Map Collection at Stanford University](https://www.davidrumsey.com/)
+
+- [Hereford Mappa Mundi](https://www.themappamundi.co.uk/mappa-mundi/)
+
+- [Fra Mauro's World Map](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
 <br>
 <br>
 
