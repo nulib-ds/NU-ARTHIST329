@@ -19,15 +19,10 @@ Digital Humanities (DH) are the application of computational technology in the h
 Geographic Information Systems (GIS) in digital humanities allow art historians to integrate spatial analysis with historical, cultural, and literary studies to better analyze artistic exchange and cultural interactions. GIS enables scholars to perform spatial analysis to help uncover new insights, such as tracking people’s movements, mapping historical events, and visualizing the geographical distribution of artistic exchange and cultural interactions. It aids in storytelling, enhances research by adding spatial context, and allows for interactive and dynamic data presentations that can engage a wider audience. Moreover, GIS skills are also valuable in the job market, enabling students to have various opportunities in landscape and urban planning, heritage preservation, and visualization by making research dynamic and engaging.   
 
 Here's a small list of Digital Humanities projects that use themes of geography, space, and/or maps:  
-
-[Colored Conventions Project](https://coloredconventions.org/black-illinois-organizing/)
-
-[Mapping Prejudice](https://mappingprejudice.umn.edu/)
-
-[The Chicago00 Project](https://1893.chicago00.org/)
-
-[Mapping Historic New York](https://mappinghny.com/)
-
-[Hostile Terrain 94](https://www.undocumentedmigrationproject.org/hostileterrain94)
+- [Colored Conventions Project](https://coloredconventions.org/black-illinois-organizing/)
+- [Mapping Prejudice](https://mappingprejudice.umn.edu/)
+- [The Chicago00 Project](https://1893.chicago00.org/)
+- [Mapping Historic New York](https://mappinghny.com/)
+- [Hostile Terrain 94](https://www.undocumentedmigrationproject.org/hostileterrain94)
 
 
