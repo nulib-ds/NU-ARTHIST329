@@ -3,6 +3,11 @@ layout: default
 title: Digital Humanities & GIS
 nav_order: 2
 ---
+
+<div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
+  <strong>Before we begin our mapping project, let's take a few moments to familiarize ourselves with GIS within the context of digital humanities.</strong>
+</div>
+
 **What are the Digital Humanities?**
 
 Digital Humanities (DH) are the application of computational technology in the humanities. Technological developments (e.g. computers, internet, smart devices, augmented reality, chips, processors, and so on) impacted the growth of the digital humanities—an interdisciplinary field that uses digital tools, software, and techniques to research the humanities. DH brings together a wide range of scholars in the humanities with the aim of enhancing research by using digital technologies. Digital methods and tools allow scholars to study, interpret, and visualize their research in new ways, including illustrating complex data sets with creative visuals and interactive graphics to share their research in more visually appealing ways, providing researchers with a broader audience worldwide. 
