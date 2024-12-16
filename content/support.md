@@ -18,13 +18,9 @@ Contact Mech Frazier at **gis@northwestern.edu** for questions or book an appoin
 A list of digital collections you can download images from (always make sure to cite them!): 
 
 - [Bodleian Library Digital Collections](https://www.bodleian.ox.ac.uk/collections-and-resources/special-collections/digital-collections)
-
 - [Library of Congress](https://www.loc.gov/maps/collections/)
-
 - [David Rumsey's Historical Map Collection at Stanford University](https://www.davidrumsey.com/)
-
 - [Hereford Mappa Mundi](https://www.themappamundi.co.uk/mappa-mundi/)
-
 - [Fra Mauro's World Map](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
 <br>
 <br>
