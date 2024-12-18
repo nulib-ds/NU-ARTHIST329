@@ -31,6 +31,7 @@ Locations include:
 > - **Venice**
 > - **Toledo**
 <br>
+<br>
 
 You will have **three (3) steps and deadlines** for completing this assignment. 
 1. Your written Digital Mediterranean project proposal (choose five locations with monuments and objects) is due on Friday, February 14, 2025 (Week 6), no later than in the afternoon (4:00 pm).  
