@@ -30,7 +30,7 @@ Scroll through your print preview and ensure everything looks good, then select 
 
 Save as PDF
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/save_as_adobe.jpg" width="550" height="450">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/save_as_adobe.jpg" width="650" height="550">
 <br>
 <br>
 
