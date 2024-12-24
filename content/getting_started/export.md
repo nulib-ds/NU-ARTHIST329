@@ -20,7 +20,7 @@ Open your StoryMap, select the ellipsis, and choose **Print preview**.
 
 Scroll through your print preview and ensure everything looks good, then select **Print**.
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/print.jpg" width="100" height="50">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/print.jpg" width="75" height="50">
 <br>
 <br>
 
