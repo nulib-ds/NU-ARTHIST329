@@ -10,7 +10,7 @@ nav_order: 1
 </div>
 Open your StoryMap, select the ellipsis, and choose **Print preview**.
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/print_preview.jpg" width="350" height="250">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/print_preview.jpg" width="250" height="150">
 <br>
 <br>
 
@@ -20,7 +20,7 @@ Open your StoryMap, select the ellipsis, and choose **Print preview**.
 
 Scroll through your print preview and ensure everything looks good, then select **Print**.
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/print.jpg" width="350" height="250">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/print.jpg" width="150" height="50">
 <br>
 <br>
 
@@ -30,7 +30,7 @@ Scroll through your print preview and ensure everything looks good, then select 
 
 Save as PDF
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/save_as_adobe.jpg" width="350" height="250">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/save_as_adobe.jpg" width="250" height="150">
 <br>
 <br>
 
