@@ -36,7 +36,7 @@ Locations include:
 You will have **three (3) steps and deadlines** for completing this assignment. Please check your syllabus in Canvas for details and more information.
 1. Your written Digital Mediterranean project proposal is due on Friday, February 14, 2025, no later than 4pm.  
 
-2. Your Digital Mediterranean project paper in a Word documentto be uploaded on Canvas is due on Tuesday, March 18, 2025, no later than 4pm. 
+2. Your Digital Mediterranean project paper in a Word document to be uploaded on Canvas is due on Tuesday, March 18, 2025, no later than 4pm. 
 
 3. Your completed Digital Mediterranean project on ArcGIS StoryMap is due on Wednesday, March 19, 2025, no later than 4pm. 
 <br>
