@@ -33,7 +33,6 @@ Locations include:
 <br>
 
 <br>
-<br>
 You will have **three (3) steps and deadlines** for completing this assignment. Please check your syllabus in Canvas for details and more information.
 1. Your written Digital Mediterranean project proposal is due on Friday, February 14, 2025, no later than 4pm.  
 
