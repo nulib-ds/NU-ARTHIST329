@@ -31,8 +31,8 @@ Locations include:
 > - **Venice**
 > - **Toledo**
 <br>
-<br>
-<br>
+
+
 
 You will have **three (3) steps and deadlines** for completing this assignment. Please check your syllabus in Canvas for details and more information.
 1. Your written Digital Mediterranean project proposal is due on Friday, February 14, 2025, no later than 4pm.  
@@ -43,4 +43,3 @@ You will have **three (3) steps and deadlines** for completing this assignment. 
 <br>
 
 <p><small><small>** Oxford, Bodleian Library MS. Arab. c. 90: <a href="https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/">https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</a></small></small></p>
-
