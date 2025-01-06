@@ -33,12 +33,12 @@ Locations include:
 <br>
 <br>
 
-You will have **three (3) steps and deadlines** for completing this assignment. 
-1. Your written Digital Mediterranean project proposal (choose five locations with monuments and objects) is due on Friday, February 14, 2025 (Week 6), no later than in the afternoon (4:00 pm).  
+You will have **three (3) steps and deadlines** for completing this assignment. Please check your syllabus in Canvas for details and more information.
+1. Your written Digital Mediterranean project proposal is due on Friday, February 14, 2025, no later than 4pm.  
 
-2. Your Digital Mediterranean project paper in a Word document (2-3 pages; ~1250 words with key visuals and academic sources, Times New Roman; 12pt, double-spaced) to be uploaded on Canvas is due on Tuesday, March 18, 2025 (Week 11), no later than in the afternoon (4:00 pm). 
+2. Your Digital Mediterranean project paper in a Word documentto be uploaded on Canvas is due on Tuesday, March 18, 2025, no later than 4pm. 
 
-3. Your completed Digital Mediterranean project on ArcGIS StoryMap is due on Wednesday, March 19, 2025 (Week 11), no later than in the afternoon (4:00 pm). 
+3. Your completed Digital Mediterranean project on ArcGIS StoryMap is due on Wednesday, March 19, 2025, no later than 4pm. 
 <br>
 
 <p><small><small>** Oxford, Bodleian Library MS. Arab. c. 90: <a href="https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/">https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</a></small></small></p>
