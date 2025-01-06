@@ -4,9 +4,8 @@ title: Digital Humanities & GIS
 nav_order: 2
 ---
 
-<div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
-  <strong>Before we begin our mapping project, let's take a few moments to familiarize ourselves with GIS within the context of Digital Humanities.</strong>
-</div>
+
+**Before we begin our mapping project, let's take a few moments to familiarize ourselves with GIS within the context of Digital Humanities.**
 <br> 
 
 **What are the Digital Humanities?**
