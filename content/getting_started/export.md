@@ -29,6 +29,7 @@ Scroll through your print preview and ensure everything looks good, then select 
 </div>
 
 **Save** your document as a PDF.
+:bulb: **Tip:** Proper naming conventions are key to keeping your digital portfolio organized. For example, using  `ARTHIST329_W25_LASTNAME_FIRSTNAME_TITLE.docx` for your file name is a good choice. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/save_as_adobe.jpg" width="650" height="550">
 <br>
