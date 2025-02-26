@@ -26,7 +26,9 @@ Locations include:
 > - **Fustat (Old Cairo)**
 > - **Palermo**
 > - **Pisa**
+> - **Majorca**
 > - **Mecca**
+> - **Northern Iraq**
 > - **Saint Catherine (Mount Sinai; Sinai Peninsula)**
 > - **Venice**
 > - **Toledo**
