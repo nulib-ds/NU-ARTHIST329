@@ -19,7 +19,7 @@ Geographic Information Systems (GIS) in digital humanities enable art historians
 
 Acquiring GIS skills gives humanities students digital tools to investigate how geographic and regional factors shape societies, including artistic production and cultural interactions. GIS allows students to map historical events, visualize changes over time, and analyze spatial relationships in art and culture. It reveals patterns and connections that might not be obvious in traditional text-based analysis. GIS skills are also valuable in the job market, offering opportunities in landscape and urban planning, heritage preservation, and visualization by making research dynamic and engaging.   
 
-Below is a small list of Digital Humanities projects that use themes of geography, space, and/or cartogrpahy:  
+Below is a small list of Digital Humanities projects that use themes of geography, space, and/or cartography:  
 - [Colored Conventions Project](https://coloredconventions.org/black-illinois-organizing/)
 - [Mapping Prejudice](https://mappingprejudice.umn.edu/)
 - [The Chicago00 Project](https://1893.chicago00.org/)
