@@ -9,7 +9,7 @@ nav_order: 0
   <strong>Step 1</strong>
 </div>
 
-For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a **Guided map tour**. You are welcome to add additional elements if you are interested. 
+For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a **Guided map tour**. You are welcome to add additional elements if interested. 
 
 Go ahead an select a StoryMap from scratch: 
 
