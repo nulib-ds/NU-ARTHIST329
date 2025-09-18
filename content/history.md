@@ -10,15 +10,16 @@ nav_order: 2
 
 **What are the Digital Humanities?**
 
-Digital Humanities (DH) are the application of computational technology in the humanities. Technological developments (e.g. computers, internet, smart devices, augmented reality, chips, processors, and so on) impacted the growth of the digital humanities—an interdisciplinary field that uses digital tools, software, and techniques to research the humanities. DH brings together a wide range of scholars in the humanities with the aim of enhancing research by using digital technologies. Digital methods and tools allow scholars to study, interpret, and visualize their research in new ways, including illustrating complex data sets with creative visuals and interactive graphics to share their research in more visually appealing ways, providing researchers with a broader audience worldwide. 
-
+Digital Humanities (DH) applies computers and digital technologies to humanities research. The advancement of technologies, including the internet, smart devices, processors, chips, and augmented reality, has expanded its scope in the past decade. Digital Humanities encourages interdisciplinary collaboration and uses digital tools and methods for innovative analysis and effective presentation of research findings. These approaches enable the use of creative visuals and interactive graphics, facilitating the sharing of research with a global audience.
 
 
 **What is Geographic Information Systems (GIS)?**
 
-Geographic Information Systems (GIS) in digital humanities allow art historians to integrate spatial analysis with historical, cultural, and literary studies to better analyze artistic exchange and cultural interactions. GIS enables scholars to perform spatial analysis to help uncover new insights, such as tracking people’s movements, mapping historical events, and visualizing the geographical distribution of artistic exchange and cultural interactions. It aids in storytelling, enhances research by adding spatial context, and allows for interactive and dynamic data presentations that can engage a wider audience. Moreover, GIS skills are also valuable in the job market, enabling students to have various opportunities in landscape and urban planning, heritage preservation, and visualization by making research dynamic and engaging.   
+Geographic Information Systems (GIS) in digital humanities enable art historians to incorporate spatial analysis into historical, cultural, and literary studies, thereby facilitating a deeper examination of artistic exchange and cultural interactions. GIS enables scholars to perform spatial analysis, helping uncover new insights, such as tracking people’s movements, mapping historical events, and visualizing the geographical distribution of artistic exchange and cultural interactions. It aids in storytelling, enhances research by providing spatial context, and enables interactive and dynamic data presentations that can engage a broader audience. 
 
-Below is a small list of Digital Humanities projects that use themes of geography, space, and/or maps:  
+Acquiring GIS skills gives humanities students digital tools to investigate how geographic and regional factors shape societies, including artistic production and cultural interactions. GIS allows students to map historical events, visualize changes over time, and analyze spatial relationships in art and culture. It reveals patterns and connections that might not be obvious in traditional text-based analysis. GIS skills are also valuable in the job market, offering opportunities in landscape and urban planning, heritage preservation, and visualization by making research dynamic and engaging.   
+
+Below is a small list of Digital Humanities projects that use themes of geography, space, and/or cartogrpahy:  
 - [Colored Conventions Project](https://coloredconventions.org/black-illinois-organizing/)
 - [Mapping Prejudice](https://mappingprejudice.umn.edu/)
 - [The Chicago00 Project](https://1893.chicago00.org/)
