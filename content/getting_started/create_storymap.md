@@ -9,7 +9,9 @@ nav_order: 0
   <strong>Step 1</strong>
 </div>
 
-For this assignment, choose the **Guided map tour**. Once selected, this will launch our new StoryMap.
+For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a **Guided map tour**. You are welcome to add additional elements if you are interested. 
+
+Go ahead an select a StoryMap from scratch: 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/create_story.jpg" width="350" height="250">
 <br>
