@@ -11,7 +11,7 @@ nav_order: 0
 
 For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a Guided map tour. You are welcome to add additional elements if interested. 
 
-Choose starting your StoryMap from scratch: 
+Start your StoryMap from scratch: 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/start_from_scratch.jpg" width="350" height="250">
 
