@@ -86,7 +86,7 @@ Create a **map tour card**:<br>
 <br>
 
 **B.** Select **Add location** and Zoom into your place of interest. 
-<small>Pro Tip: You can use the search location bar at the top-left corner to help you locate your area.</small>
+<small>💡 Tip: You can use the search location bar at the top-left corner to help you locate your area.</small>
 <br>
 
 **C.** Select your **Zoom** level. I'd suggest using the **Use the current zoom level** and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
