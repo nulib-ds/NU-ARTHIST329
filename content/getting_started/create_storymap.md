@@ -47,7 +47,7 @@ Add an **introduction text block** by selecting the crosshair icon next to *"Tel
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/text_block.jpg" width="250" height="150">
 <br>
 
-You can replicate these same steps for your **conclusion text block**. 
+Replicate these same steps to add your **conclusion text block**. 
 <br>
 <br>
 
@@ -61,7 +61,7 @@ Now we'll create the interactive web map portion of your final project. You'll a
   <small><strong>Remember</strong> to save a copy of your text in a Word document and your images in a folder! </small>
 </div>
 
-Hover and select the crosshair icon again. Scroll down and choose **Guided Map Tour.** Create your Guided Map Tour from scratch, then select the **Map focused** layout. 
+Hover and select the crosshair icon again. Scroll down and choose **Guided Map Tour.** Create your Guided Map Tour from scratch, then select the **Map focused layout**. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map_tour.jpg" width="250" height="150">
 <br>
@@ -85,7 +85,8 @@ Create a **map tour card**:<br>
 **A.** Add **new slide** to your map tour.
 <br>
 
-**B.** Select **Add location** and Zoom into your place of interest. <small>Pro Tip: You can use the search location bar at the top-left corner to help you locate your area.</small>
+**B.** Select **Add location** and Zoom into your place of interest. 
+<small>Pro Tip: You can use the search location bar at the top-left corner to help you locate your area.</small>
 <br>
 
 **C.** Select your **Zoom** level. I'd suggest using the **Use the current zoom level** and fixing it how you want (this will enable you to Zoom in way more than the automated one). Either one is fine! 
