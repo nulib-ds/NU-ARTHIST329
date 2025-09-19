@@ -11,7 +11,7 @@ nav_order: 0
 
 For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a **Guided map tour**. You are welcome to add additional elements if interested. 
 
-Go ahead an select a StoryMap from scratch: 
+Choose starting your StoryMap from scratch: 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/start_from_scratch.jpg" width="350" height="250">
 
@@ -39,6 +39,20 @@ Add your title, short introduction, and cover image or video.
   <strong>Step 3</strong>
 </div>
 
+Add an **introduction** text block by selecting the crosshair icon next to "Tell your story..."
+
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/crosshair_icon.jpg" width="150" height="50">
+<br>
+
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/text_block.jpg" width="150" height="50">
+<br>
+
+You can replicate these same steps for your **conclusion** text block. 
+
+<div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
+  <strong>Step 4</strong>
+</div>
+
 Now we'll create the interactive web map portion of your final project. You'll add your locations of interest, images, and text here. 
 
 <div style="border: 1px solid #620c08; background-color: #ffeded; padding: 10px; border-radius: 5px; color: #620c08;">
@@ -54,7 +68,7 @@ Since political borders change, let's modify our [**basemap**](https://pro.arcgi
 <br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
-  <strong>Step 4</strong>
+  <strong>Step 5</strong>
 </div>
 
 Create a **map tour card**:<br>
