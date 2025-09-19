@@ -8,7 +8,7 @@ This assignment will teach us to use [ArcGIS StoryMaps](https://www.esri.com/en-
 
 ## Assignment Instructions
 
-Students must choose five (5) locations out of thirteen (13) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. They must use at least two peer-reviewed references and two citations for each location’s monument or object. They can also use their class lecture notes. 
+Students must choose five (5) locations out of thirteen (13) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. You must use at least two peer-reviewed references and two citations for each location’s monument or object. You can also use their class lecture notes. 
 
 The locations to choose from include: 
 -    Constantinople
@@ -20,10 +20,12 @@ The locations to choose from include:
 -    Fustat (Old Cairo)
 -    Palermo
 -    Pisa
+-    Ravenna
+-    Mallorca
 -    Mecca
 -    Saint Catherine (Mount Sinai; Sinai Peninsula)
 -    Venice
--    Toledo 
+-    Toledo (Spain)
 
 ## How To Use This Repository
 
