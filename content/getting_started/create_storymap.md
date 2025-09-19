@@ -39,7 +39,7 @@ Add your title, short introduction, and cover image or video.
   <strong>Step 3</strong>
 </div>
 
-Add an **introduction text block** by selecting the crosshair icon next to "Tell your story..." and choosing *Text*. 
+Add an **introduction text block** by selecting the crosshair icon next to *"Tell your story..."* and choosing *Text*. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/crosshair_icon.jpg" width="150" height="50">
 <br>
@@ -60,6 +60,13 @@ Now we'll create the interactive web map portion of your final project. You'll a
 <div style="border: 1px solid #620c08; background-color: #ffeded; padding: 10px; border-radius: 5px; color: #620c08;">
   <small><strong>Remember</strong> to save a copy of your text in a Word document and your images in a folder! </small>
 </div>
+
+Hover and select the crosshair icon again. Scroll down and choose **Guided Map Tour.** Create your Guided Map Tour from scratch, then select the **Map focused** layout. 
+
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map_tour.jpg" width="250" height="150">
+<br>
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/map_tour_layout.jpg" width="500" height="400">
+<br>
 
 Since political borders change, let's modify our [**basemap**](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/author-a-basemap.htm) to something that more accurately reflects this. Select the pencil icon, then select the basemap and change it to "Imagery" (3rd row, far left). 
 
