@@ -14,6 +14,8 @@ For this assignment, **you'll add three elements** including an introduction tex
 Go ahead an select a StoryMap from scratch: 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/start_from_scratch.jpg" width="350" height="250">
+
+This will initiate your StoryMap. Next, we'll learn how to adjust our theme through the Design section. 
 <br>
 <br>
 
