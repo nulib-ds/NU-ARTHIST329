@@ -9,13 +9,13 @@ nav_order: 0
   <strong>Step 1</strong>
 </div>
 
-For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a **Guided map tour**. You are welcome to add additional elements if interested. 
+For this assignment, **you'll add three elements** including an introduction text block, a conclusion text block, and a Guided map tour. You are welcome to add additional elements if interested. 
 
 Choose starting your StoryMap from scratch: 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/start_from_scratch.jpg" width="350" height="250">
 
-This will initiate your StoryMap. Next, we'll learn how to adjust our theme through the Design section. 
+These steps will initiate your StoryMap. Next, we'll learn how to adjust our theme through the **Design** section. 
 <br>
 <br>
 
@@ -39,15 +39,15 @@ Add your title, short introduction, and cover image or video.
   <strong>Step 3</strong>
 </div>
 
-Add an **introduction** text block by selecting the crosshair icon next to "Tell your story..."
+Add an **introduction text block** by selecting the crosshair icon next to "Tell your story..." and choosing *Text*. 
 
 <img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/crosshair_icon.jpg" width="150" height="50">
 <br>
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/text_block.jpg" width="150" height="50">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/text_block.jpg" width="250" height="150">
 <br>
 
-You can replicate these same steps for your **conclusion** text block. 
+You can replicate these same steps for your **conclusion text block**. 
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 4</strong>
