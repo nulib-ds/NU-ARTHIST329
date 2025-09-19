@@ -97,5 +97,5 @@ Create a **map tour card**:<br>
 <br>
 
 **E.** That's it! Keep adding tour cards until you have at least 5 places and something that resembles this:<br>
-  <iframe src="https://arcg.is/HGGSP0" width="1000" height="800" title="Example StoryMap"></iframe> 
+  <iframe src="https://storymaps.arcgis.com/stories/063fa0912c424f5abec9f3a29e12e741" width="1000" height="800" title="Example StoryMap"></iframe> 
 
