@@ -11,7 +11,7 @@ nav_order: 2
 
 Select the **Publish button** along the top ribbon in the StoryMaps builder.  
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/publish_button.jpg" width="350" height="250">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/publish_button.jpg" width="450" height="350">
 <br>
 <br>
 
@@ -21,6 +21,6 @@ Select the **Publish button** along the top ribbon in the StoryMaps builder.
 
 Set your sharing level to **Everyone (Public)**, then select the **Publish** button on the top right-hand corner. 
 
-<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/sharing_levels.jpg" width="350" height="250">
+<img src="https://raw.githubusercontent.com/nulib-ds/NU-ARTHIST329/refs/heads/main/content/img/sharing_levels.jpg" width="550" height="450">
 <br>
 <br>
