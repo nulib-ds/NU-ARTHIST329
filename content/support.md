@@ -30,6 +30,6 @@ A list of digital collections you can download images from (always make sure to 
 </div>
 - Check out the Library's [GIS research guide](https://libguides.northwestern.edu/gis)<br>
 
-- The Environmental Studies program at NU offers [introductory GIS courses](https://deeps.northwestern.edu/courses/2025-2026/)) on GIS
+- The Environmental Studies program at NU offers [introductory GIS courses](https://deeps.northwestern.edu/courses/2025-2026/) on GIS
 
 - The Anthropology Department at NU hosts an open [Spatial and Cartographic Analysis of Landscape and Environments Lab](https://anthropology.northwestern.edu/research/gis-lab.html)
