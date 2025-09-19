@@ -8,7 +8,7 @@ This assignment will teach us to use [ArcGIS StoryMaps](https://www.esri.com/en-
 
 ## Assignment Instructions
 
-Students must choose five (5) locations out of fifteen (15) to set up their GIS map. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. You must use at least two peer-reviewed references and two citations for each location’s monument or object. You can also use their class lecture notes. 
+Students must choose five (5) locations out of fifteen (15) to set up their StoryMap. They place a monument or object at each location. Students will enter the metadata information based on their scholarly research. You must use at least two peer-reviewed references and two citations for each location’s monument or object. You can also use their class lecture notes. 
 
 The locations to choose from include: 
 -    Constantinople
