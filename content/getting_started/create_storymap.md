@@ -48,6 +48,8 @@ Add an **introduction text block** by selecting the crosshair icon next to "Tell
 <br>
 
 You can replicate these same steps for your **conclusion text block**. 
+<br>
+<br>
 
 <div style="border: 1px solid #4E2A84; background-color: #E4E0EE; padding: 10px; border-radius: 5px; color: #4E2A84;">
   <strong>Step 4</strong>
