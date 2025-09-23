@@ -41,7 +41,7 @@ This assignment consists of **three (3) steps, each with its own deadline.** The
 
 2. The second step is to prepare and submit a paper for your Digital Mediterranean final project. Please submit your visual analysis paper as a Microsoft Word Document via Canvas by Tuesday, December 9, 2025 no later than 4:00pm. 
 
-3. The third and final step is to finalize and publish your Digital Mediterranean final project on ArcGIS StoryMaps. Please submit your ArcGIS StoryMap as a PDF file via Canvas by Tuesday, December 9, 2025 no later than 4:00pm. 
+3. The third and final step is to finalize and publish your Digital Mediterranean final project on ArcGIS StoryMaps. Please submit your ArcGIS StoryMap as a PDF file via Canvas by Wednesday, December 10, 2025 no later than 4:00pm. 
 <br>
 
 <p><small><small>** Oxford, Bodleian Library MS. Arab. c. 90: <a href="https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/">https://digital.bodleian.ox.ac.uk/objects/748a9d50-5a3a-440e-ab9d-567dd68b6abb/</a></small></small></p>
